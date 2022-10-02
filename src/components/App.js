@@ -1,6 +1,6 @@
 import React from "react";
 import CardList from "./git-card/card-list";
-import Form from './form/form';
+import Form from '../containers/form-data-container';
 // import { Route, Switch } from "react-router-dom";
 // import HomePage from "./home/HomePage";
 // import AboutPage from "./about/AboutPage";
